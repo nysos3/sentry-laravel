@@ -20,7 +20,7 @@
     "require": {
         "php": ">=5.3.0 | ^7.2 | ^7.3 | ^7.4 | ^8.0 | ^8.1",
         "illuminate/support": "4.*|5.*",
-        "sentry/sentry": "dev-main"
+        "nysos3/sentry-php": "dev-main"
     },
     "require-dev": {
         "friendsofphp/php-cs-fixer": "^1.8.0",
